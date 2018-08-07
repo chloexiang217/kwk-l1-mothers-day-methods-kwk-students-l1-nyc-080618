@@ -3,6 +3,6 @@ def mothers_day
   "Happy Mother's Day, Mom!"
 end 
 
-def mothers_day(mom = get.chomp)
+def mothers_day(mom = name)
   "Happy Mother's Day,#{mom}"
 end

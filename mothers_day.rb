@@ -8,5 +8,5 @@ def mothers_day(name)
 end
 
 def mothers_day(name = mom)
-  "Happy Mother's Day, #{name}"
+  "Happy Mother's Day, #{name}!"
 end

@@ -4,6 +4,5 @@ def mothers_day
 end 
 
 def mothers_day(string_one = get.chomp)
-  string_one = 
   "Happy Mother's Day,#{string_one}"
 end

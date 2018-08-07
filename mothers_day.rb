@@ -4,5 +4,9 @@ def mothers_day
 end 
 
 def mothers_day(name)
+  "Happy Mother's Day, #{name}!"
+end
+
+def mothers_day(name = mom)
   "Happy Mother's Day, #{name}"
 end
